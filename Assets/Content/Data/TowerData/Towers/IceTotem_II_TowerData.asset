@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c08cdc6ec1166a94b9b30062377db4e0, type: 3}
+  m_Name: IceTotem_II_TowerData
+  m_EditorClassIdentifier: 
+  id: 7
+  price: 60
+  damage: 0
+  isLocked: 0
+  range: 3
+  shootInterval: 0
+  shellFlyDuration: 0
+  emblem: {fileID: 21300000, guid: 2036fd0b1a07c2a468e4dd7119ca29ae, type: 3}
+  nextTowerUpgrade:
+  - {fileID: 11400000, guid: d6d300847c47ec34bb1b803c6c83f4ee, type: 2}
+  - {fileID: 11400000, guid: d6d300847c47ec34bb1b803c6c83f4ee, type: 2}
+  towerPrefab: {fileID: 5289338379184270889, guid: 390b19c600331c442a38364460594335,
+    type: 3}
