@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c08cdc6ec1166a94b9b30062377db4e0, type: 3}
+  m_Name: BoomTowerData
+  m_EditorClassIdentifier: 
+  id: 4
+  price: 100
+  damage: 2
+  isLocked: 0
+  range: 3
+  shootInterval: 4
+  shellFlyDuration: 3
+  emblem: {fileID: 21300000, guid: da633cb6d603a5348af20f23a2ca0484, type: 3}
+  nextTowerUpgrade:
+  - {fileID: 11400000, guid: c2c69a8bf7526664c8fa15dd51745513, type: 2}
+  towerPrefab: {fileID: 4061219653339687539, guid: 7ffc646f59b7d5f438ecc3bb0afb1ae5,
+    type: 3}

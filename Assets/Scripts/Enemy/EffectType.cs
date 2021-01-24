@@ -1,0 +1,1 @@
+﻿public enum EffectType { Damage, Freeze }

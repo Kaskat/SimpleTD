@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f14bdf12425b3a94689412bfb7ff4a4a, type: 3}
+  m_Name: LevelData_1
+  m_EditorClassIdentifier: 
+  id: 0
+  waves:
+  - {fileID: 11400000, guid: 834cf3954dd2f1c43a2e9825926b8ed5, type: 2}
+  - {fileID: 11400000, guid: 0b44f5384549c7041b538c25db1a72a0, type: 2}
+  - {fileID: 11400000, guid: 8197f1984107dfd45abaf07a06809fce, type: 2}
+  - {fileID: 11400000, guid: e29d04c68dd72974fbf74610f17b9cb2, type: 2}
+  - {fileID: 11400000, guid: 47f8db1120591234b92a621feb6c7e5f, type: 2}
+  levelPrefab: {fileID: 6046870845012263374, guid: 6b8ff4ae38363854bb041309c644e0c0,
+    type: 3}
+  healthPoint: 25
+  coinPoint: 501
